@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1zK0xS558EhB8MVXYObnfX8noFHNX4GU9">
+	<name>Projet de carte sans titre</name>
+	<gx:CascadingStyle kml:id="__managed_style_018DE3ABEA418D46704F_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_018DE3ABEA418D46704F_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_04E6616F00418D439BE3_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_04E6616F00418D439BE3_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04E6616F00418D439BE3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_04E6616F00418D439BE3_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04E6616F00418D439BE3_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_018DE3ABEA418D46704F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_018DE3ABEA418D46704F_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_018DE3ABEA418D46704F_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0B7665B98C418D439BE4_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0B7665B98C418D439BE4_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B7665B98C418D439BE4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0B7665B98C418D439BE4_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0B7665B98C418D439BE4_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0F75AB80FD40956909A4">
+		<name>Wervicq Nord (B242)</name>
+		<description><![CDATA[<div>Observatoire pour une tourelle TSF&nbsp;<br></div><div><br></div><div>état : incomplet<br></div><div><br></div><div><a href="https://lesblockhauslyssois.fr/blockhaus/B242.html">Voir en détail</a><br></div>]]></description>
+		<LookAt>
+			<longitude>3.043563711945294</longitude>
+			<latitude>50.76376043166462</latitude>
+			<altitude>47.51917801260843</altitude>
+			<heading>0.1957654174408782</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>448.6222756333882</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B7665B98C418D439BE4</styleUrl>
+		<Point>
+			<coordinates>3.042883481108776,50.76355576323502,45.04927082497251</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E2BE5FD3040956C03F8">
+		<name> Wervicq Sud (B243)</name>
+		<description><![CDATA[<div>Observatoire<br></div><div><br></div><div>état : incomplet<br></div><div><br></div><div><a href="https://lesblockhauslyssois.fr/blockhaus/B243.html">Voir en détail</a><br></div>]]></description>
+		<LookAt>
+			<longitude>3.042886197383501</longitude>
+			<latitude>50.76411367603959</latitude>
+			<altitude>43.22900115137536</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>730.4834853707871</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04E6616F00418D439BE3</styleUrl>
+		<Point>
+			<coordinates>3.043173346167232,50.76301321118138,55.54100759360492</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D1204F584095706118">
+		<name>BEF 240 - C10</name>
+		<description><![CDATA[<div>Blockhaus type R<br></div><div><br></div><div>état : incomplet</div>]]></description>
+		<LookAt>
+			<longitude>3.166508143345879</longitude>
+			<latitude>50.74880088141355</latitude>
+			<altitude>39.37478631181757</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>233.9561713038711</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04E6616F00418D439BE3</styleUrl>
+		<Point>
+			<coordinates>3.166645262878247,50.74857612797125,43.73226630842298</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FC74C5A954095719BA3">
+		<name>BEF 692</name>
+		<description><![CDATA[<div>Blockhaus type R<br></div><div><br></div><div>état : complet<br></div><div><br></div><div><a href="https://lesblockhauslyssois.fr/blockhaus/BEF692.html">Voir en détail</a></div>]]></description>
+		<LookAt>
+			<longitude>3.210605505116313</longitude>
+			<latitude>50.70915389976416</latitude>
+			<altitude>27.24511363004832</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>201.8920253959732</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04E6616F00418D439BE3</styleUrl>
+		<Point>
+			<coordinates>3.210433857331068,50.70905006018281,25.04596948240054</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A23CF941840957288D4">
+		<name>BEF 693</name>
+		<description><![CDATA[<div>Blockhaus type R<br></div><div><br></div><div>état : semi-enterré<br></div><div><br></div><div><a href="https://lesblockhauslyssois.fr/blockhaus/BEF693.html">Voir en détail</a><br></div>]]></description>
+		<LookAt>
+			<longitude>3.21257097721283</longitude>
+			<latitude>50.70685741351654</latitude>
+			<altitude>50.32965520000072</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>76.2761004258391</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04E6616F00418D439BE3</styleUrl>
+		<Point>
+			<coordinates>3.212492708054915,50.70677683771778,47.65253230820333</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="095437E7BE409574359C">
+		<name>BEF 339</name>
+		<description><![CDATA[<div>Blockhaus type R<br></div><div><br></div><div>état : semi-enterré<br></div><div><br></div><div><a href="https://lesblockhauslyssois.fr/blockhaus/BEF339.html">Voir en détail</a><br></div>]]></description>
+		<LookAt>
+			<longitude>3.219697560105543</longitude>
+			<latitude>50.66998508401403</latitude>
+			<altitude>26.37152187750595</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>202.8077491690783</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04E6616F00418D439BE3</styleUrl>
+		<Point>
+			<coordinates>3.219429109688627,50.66999990430044,29.93628979181767</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D9825073E409577B38C">
+		<name>Le Forest (B303)</name>
+		<description><![CDATA[<div>Blockhaus type G1<br></div><div><br></div><div>état : incomplet<br></div><div><br></div><div><a href="https://lesblockhauslyssois.fr/blockhaus/B303.html">Voir en détail</a></div>]]></description>
+		<LookAt>
+			<longitude>3.176958653954922</longitude>
+			<latitude>50.63484107537776</latitude>
+			<altitude>45.55824839591214</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>461.4151516000129</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04E6616F00418D439BE3</styleUrl>
+		<Point>
+			<coordinates>3.176603060756236,50.63461280115354,47.56533640119883</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04C7E65A93418D4409C7">
+		<name>BEF 768</name>
+		<description><![CDATA[<div>&nbsp;Entrée d'un bunker enterré Allemand datant de la première guerre mondiale pour réutiliser pour loger des soldats des Royal Scots Fusiliers (50 à 60 soldats)<br></div><div><br></div><div>état : semi - enterré<br></div><div><br></div><div><a href="https://lesblockhauslyssois.fr/blockhaus/WW1.html">Voir en détail</a><br></div>]]></description>
+		<LookAt>
+			<longitude>3.123215369757464</longitude>
+			<latitude>50.74334859902834</latitude>
+			<altitude>42.49731696279416</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000051374208</gx:fovy>
+			<range>113.8208446559474</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018DE3ABEA418D46704F</styleUrl>
+		<Point>
+			<coordinates>3.123245750214274,50.74332535736631,42.8400962995893</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
